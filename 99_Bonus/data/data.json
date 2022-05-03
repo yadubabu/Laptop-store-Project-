@@ -1,0 +1,59 @@
+[
+    {
+     "id":"0",
+     "productName":"Hauwel MateBook X Pro",
+     "image":"img1.jpg",
+     "cpu":"Intel Core 17,8th generation",
+     "ram":"8GB",
+     "storage":"512 GB SSD",
+     "screen":"13.9-inch,3k (3,000 x 2000)",
+     "price":"1499",
+     "description":"All data in the foregoing pages are theoretical values obtained by HUAWEI internal laboratories through tests carried out under particular conditions. For more information, refer to the aforementioned product details.Actual data may vary owing to differences in individual products, software versions,application conditions, and environmental factors.All data is subject to actual usage."
+    },
+    {
+        "id":"1",
+        "productName":"Apple Macbook X Pro",
+        "image":"apple-macbook-pro.jpg",
+        "cpu":"IEEE 802.11a/b/h/n/ac compatible",
+        "ram":"8GB",
+        "storage":"512GB, 1TB or 2TB SSD",
+        "screen":"33.74 cm / 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560x1600",
+        "price":"122900",
+        "description":"Apple's MacBook Air needs no introduction. It's long been the go-to laptop for professionals and students, and in 2018, it got even better when Apple finally overhauled the design. However, the shallow keyboard that Apple introduced with that revision has been criticised quite heavily. Today, we'll be reviewing the latest 2020 model of the MacBook Air, which promises an improved keyboard based on customer feedback."
+       },
+       {
+        "id":"2",
+        "productName":"Dell Inspiron",
+        "image":"img/dell.jpg",
+        "cpu":"AMD APU Quad Core A6 7th Gen 7300HQ",
+        "ram":"8GB",
+        "storage":"1TB SSD",
+        "screen":"15.60-inch. Resolution. ",
+        "price":"49,489",
+        "description":"The latest 11th Generation Intel® Core™ processors deliver incredible responsiveness and smooth, seamless multitasking. Enjoy the extra power of optional NVIDIA® GeForce® MX450 discrete graphics with up to 2GB GDDR5 graphics memory."
+       },
+       {
+        "id":"3",
+        "productName":"Acer X Pro",
+        "image":"acer.jpg",
+        "cpu":"Intel Core 17,8th generation",
+        "ram":"4 GB DDR4 RAM",
+        "storage":"1 TB Hard Disk SSD",
+        "screen":"15.6 inches, 1366 x 768 pixels",
+        "price":"84,990",
+        "description":"Acer Inc. also is known as Acer, is a Taiwanese hardware and electronics corporation. IT specializes in electronic technology and is headquartered in Taiwan. Acer was founded by Stan Shih, his wife Carolyn Yeh and a group of five others in 1976. The company was renamed Acer in 1987. Acer is majorly known for its Desktop PCs, Laptops, tablets and storage devices. However, Acer also sells smartphones, virtual reality devices, gaming PCs etc. In the 2000 era, Acer moved to a new business model."
+       },
+       {
+        "id":"4",
+        "productName":"Toshiba Satellite S55-C5138",
+        "image":"toshiba.jpg",
+        "cpu":"Core i7-6500U 2.5GHz",
+        "ram":"8GB",
+        "storage":"1TB 8GB DVD-RW 4K HDMI",
+        "screen":"S55-C5138 15.6 (1920x1080)",
+        "price":"60999",
+        "description":"The new standard for PC performance has arrived with Intel 6th Gen Core i7 processor. From the blazing-fast startups to natural interaction through voice, you immediately realize the bar has been raised. Amazing responsiveness lets you rocket between apps and browsing. And, by enabling the exciting Windows 10 features, the 6th Gen Intel Core i7 processor"
+       }
+       
+]
+  
